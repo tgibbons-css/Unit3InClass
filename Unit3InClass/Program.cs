@@ -7,6 +7,8 @@ namespace Unit3InClass
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Welcome to GitHub");
+            int x = 4;
         }
     }
 }
